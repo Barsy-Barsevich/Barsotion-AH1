@@ -1,0 +1,10 @@
+Reference,Value,Datasheet,Description,Footprint,Qty,DNP
+C3,10nF,~,Unpolarized capacitor 0603 X7R,Capacitor_SMD:C_0603_1608Metric,1,
+C2,2.2uF,~,Unpolarized capacitor 0603 X7R,Capacitor_SMD:C_0603_1608Metric,1,
+"C1,C4,C5",0.1uF,~,Unpolarized capacitor 0603 X7R,Capacitor_SMD:C_0603_1608Metric,3,
+R7,1k,~,Resistor 0603,Resistor_SMD:R_0603_1608Metric,1,
+"R2,R3,R5,R6",4.7k,~,Resistor 0603,Resistor_SMD:R_0603_1608Metric,4,
+"R1,R4",10k,~,Resistor 0603,Resistor_SMD:R_0603_1608Metric,2,
+D1,LED,~,"Light emitting diode, green 0603",LED_SMD:LED_0603_1608Metric,1,
+U1,ICM-42688-P,https://invensense.tdk.com/wp-content/uploads/2020/04/ds-000347_icm-42688-p-datasheet.pdf,InvenSense High-precision 6-axes gyroscope accelerometer,Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,1,
+U2,BMP388,https://pdf1.alldatasheet.com/datasheet-pdf/download/1132070/BOSCH/BMP388.html,Bosch barometer thermometer,Package_LGA:ST_HLGA-10_2x2mm_P0.5mm_LayoutBorder3x2y,1,
